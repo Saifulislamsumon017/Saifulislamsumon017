@@ -1,4 +1,4 @@
-<img src="../MOHAMMAD SAIFUL ISLAM.png"/>
+<img src="MOHAMMAD SAIFUL ISLAM.png"/>
 
 # 💫 About Me:
 
